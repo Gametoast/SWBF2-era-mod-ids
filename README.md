@@ -70,6 +70,7 @@ PS: If an era mod uses the vanilla letters, it will just replace/overwrite the v
 
 **Letter: l used by the following mod(s):**
 
+- Pax Empiricae by IndianaJoe & Impspy 
 - The Clone Wars Revised by S1thK3nny
 
 **Letter: m used by the following mod(s):**
