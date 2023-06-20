@@ -138,6 +138,7 @@ PS: If an era mod uses the vanilla letters, it will just replace/overwrite the v
 
 **Letter: z used by the following mod(s):**
 
+- The Mandalorian Wars Project by Commander_Fett
 - Times Before The Empire Era Mod by DrDrSheldonLeeCooper
 
 **Number: 1 used by the following mod(s):**
