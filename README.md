@@ -94,7 +94,7 @@ PS: If an era mod uses the vanilla letters, it will just replace/overwrite the v
 
 - Republic Commando: Battlefront by AQT
 - Star Wars Battlefront: Republic Commando by [GT]Anakin 
-- RED Versus Blue Era Mod by RepSharpshooter
+- RED Versus BLUE Era Mod by RepSharpshooter
 
 **Letter: s used by the following mod(s):**
 
