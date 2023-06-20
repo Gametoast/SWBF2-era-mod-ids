@@ -22,9 +22,9 @@ To add an entry, edit this file and submit a pull request or, if you're a member
 - Benoz's Clone Wars Era Mod
 - Benoz's Clone Wars Era Mod (BETA)
 - Battlefront Extreme 1.0's CW Era by ARC_Commander
+- Battlefront Zero v2.0, 3.0, 5.0 by Manderek + BF0 Team
 - Icemember's Reloaded Side Mod
 - TCW Death Watch Era Mod OPEN BETA V.4.5 by LitFam
-- Battlefront Zero v2.0, 3.0, 5.0 by Manderek + BF0 Team
 
 **Letter: d used by the following mod(s):**
 
