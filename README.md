@@ -28,6 +28,8 @@ To add an entry, edit this file and submit a pull request or, if you're a member
 
 **Letter: d used by the following mod(s):**
 
+- Bow to Mandalore by S1thK3nny
+
 **Letter: e used by the following mod(s):**
 
 - 0827Ant1's The Clone Wars Era Mod
@@ -71,6 +73,8 @@ PS: If an era mod uses the vanilla letters, it will just replace/overwrite the v
 - The Clone Wars Revised by S1thK3nny
 
 **Letter: m used by the following mod(s):**
+
+- Star Wars 2015Front II by Giftheck
 
 **Letter: n used by the following mod(s):** 
 
