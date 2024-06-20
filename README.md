@@ -8,6 +8,7 @@ To add an entry, edit this file and submit a pull request or, if you're a member
 - Battlefront II: Mandalorians by  BusinessBILL
 - Battlefront II: Republic Combat by BusinessBILL
 - Shattered Galaxy (CW Era) by Delta327
+- The Galactic Saga Mod by Noctisspector
 
 **Letter: b used by the following mod(s):** 
 
@@ -15,6 +16,7 @@ To add an entry, edit this file and submit a pull request or, if you're a member
 - Battlefront Ultimate Commander 1.0's ICW Era by BUC Devs
 - The 3.5 Modification by CalvaryCptMike 
 - Shattered Galaxy (GCW Era) by Delta327
+- The Galactic Saga Mod by Noctisspector
 
 **Letter: c used by the following mod(s):**
 
@@ -130,6 +132,7 @@ PS: If an era mod uses the vanilla letters, it will just replace/overwrite the v
 - The Exile's Voyage by AQT
 - TRON: The Grid by ForceMaster14
 - BF3 Legacy's CW Era by El_Fabricio aka the_legend + team
+- The Galactic Saga Mod by Noctisspector
 
 **Letter: y used by the following mod(s):**
 
