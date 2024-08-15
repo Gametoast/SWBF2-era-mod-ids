@@ -89,6 +89,7 @@ PS: If an era mod uses the vanilla letters, it will just replace/overwrite the v
 
 - Homefront (CW Era) by ROBObermann
 - The Battlefront Project/Power by Syth
+- After Order 66 Era Mod by RaccoonLR
 
 **Letter: q used by the following mod(s):**
 
